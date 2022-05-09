@@ -1,0 +1,3 @@
+class OtpSettings:
+    configure = False
+
